@@ -1,0 +1,12 @@
+h1{
+	background-color: green;
+	color: yellow;
+	font-family: monospace;
+	font-size: 40px;
+}
+p{
+	background-color: black;
+	color: white;
+	font-size: 19px;
+	font-family: sans-serif;
+}
